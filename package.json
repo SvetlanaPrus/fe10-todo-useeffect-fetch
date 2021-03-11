@@ -1,7 +1,7 @@
 {
   "name": "fe10-todo-useeffect-fetch",
   "version": "0.1.0",
-  "homepage": "https://SvetlanaPrus.github.io/",
+  "homepage": "https://SvetlanaPrus.github.io/fe10-todo-useeffect-fetch",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.3",
@@ -21,7 +21,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "npm run build && gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
