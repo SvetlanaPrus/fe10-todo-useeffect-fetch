@@ -1,0 +1,16 @@
+.done{
+  text-decoration: line-through;
+  color: #1976d2;
+  text-align: left;
+}
+
+.not-done{
+  text-decoration: none;
+  color: #f50057;
+  text-align: left;
+}
+
+#text{
+  color: gray;
+  font-style: oblique;
+}
