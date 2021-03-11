@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/fe10-todo-useeffect-fetch/static/css/main.dedcd9cb.chunk.css",
+    "main.js": "/fe10-todo-useeffect-fetch/static/js/main.79680059.chunk.js",
+    "main.js.map": "/fe10-todo-useeffect-fetch/static/js/main.79680059.chunk.js.map",
+    "runtime-main.js": "/fe10-todo-useeffect-fetch/static/js/runtime-main.e5eaf46a.js",
+    "runtime-main.js.map": "/fe10-todo-useeffect-fetch/static/js/runtime-main.e5eaf46a.js.map",
+    "static/css/2.b260a61c.chunk.css": "/fe10-todo-useeffect-fetch/static/css/2.b260a61c.chunk.css",
+    "static/js/2.b4409657.chunk.js": "/fe10-todo-useeffect-fetch/static/js/2.b4409657.chunk.js",
+    "static/js/2.b4409657.chunk.js.map": "/fe10-todo-useeffect-fetch/static/js/2.b4409657.chunk.js.map",
+    "static/js/3.9eb57970.chunk.js": "/fe10-todo-useeffect-fetch/static/js/3.9eb57970.chunk.js",
+    "static/js/3.9eb57970.chunk.js.map": "/fe10-todo-useeffect-fetch/static/js/3.9eb57970.chunk.js.map",
+    "index.html": "/fe10-todo-useeffect-fetch/index.html",
+    "static/css/2.b260a61c.chunk.css.map": "/fe10-todo-useeffect-fetch/static/css/2.b260a61c.chunk.css.map",
+    "static/css/main.dedcd9cb.chunk.css.map": "/fe10-todo-useeffect-fetch/static/css/main.dedcd9cb.chunk.css.map",
+    "static/js/2.b4409657.chunk.js.LICENSE.txt": "/fe10-todo-useeffect-fetch/static/js/2.b4409657.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/fe10-todo-useeffect-fetch/static/media/roboto-vietnamese-400-normal.52cebac0.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5eaf46a.js",
+    "static/css/2.b260a61c.chunk.css",
+    "static/js/2.b4409657.chunk.js",
+    "static/css/main.dedcd9cb.chunk.css",
+    "static/js/main.79680059.chunk.js"
+  ]
+}
