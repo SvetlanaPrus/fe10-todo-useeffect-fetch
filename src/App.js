@@ -11,6 +11,7 @@ import Rendering from "./Rendering";
 
 //Comments: TodoList with Fetch, useEffect, useState, Bootstrap, Material-UI and Accordion.
 //Comments: Working, 06.03.21
+//Button "Update" needs to be added - 13.03.21
 
 export default function App() {
 
